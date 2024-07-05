@@ -6,13 +6,13 @@ Welcome to my GitHub repository! Here you'll find a collection of my data analys
 
 Hey, I'm Saloni Pandya, a data enthusiast based in Mumbai with a Master's degree in Statistics. Beyond crunching numbers and building visualizations, I'm passionate about sketching 🎨, exploring new painting techniques 🖌️, and delving into creative projects. Let's discuss data insights 📈 or swap art tips 🎨 – I'm always eager for a stimulating exchange!
 
-## Skills
+## 🚀 Skills
 
 Languages: Python (Libraries: Pandas, NumPy, Matplotlib, Seaborn), SQL
 
 Tools: Excel, Google Sheets, Tableau, Power BI, Jupyter Notebook, PostgreSQL
 
-## Contact Me
+## 📲 Contact Me
 
 📧 Email: pandyasaloni01@gmail.com
 
